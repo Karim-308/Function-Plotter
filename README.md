@@ -13,9 +13,37 @@ FunctionPlotter is a Python-based graphical application designed to allow users 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+## Prerequisites
 
 You need to have Python installed on your machine (Python 3.7 or later is recommended). Additionally, you should install the following packages:
 
 ```bash
 pip install PySide2 numpy matplotlib
+```
+## Installing 
+
+```bash
+git clone https://github.com/yourusername/functionplotter.git
+cd functionplotter
+```
+
+## Running
+
+ ```bash
+python main.py
+```
+
+## Usage
+
+- **Start the Application**: Run the `main.py` script.
+- **Enter a Function**: Type a function using `x` as the variable (e.g., `x^2`, `sin(x)`, etc.).
+- **Set the Range**: Specify the minimum and maximum values for the `x-axis`.
+- **Plot**: Click the "Plot Function" button to view the graph.
+- **Interact**: Use the zoom and pan tools to explore different parts of the graph.
+
+## Tests
+
+To run tests, ensure you have `pytest` and `pytest-qt` installed:
+
+```bash
+pip install pytest pytest-qt
