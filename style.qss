@@ -1,0 +1,36 @@
+/* styles.qss */
+QMainWindow {
+    background-color: #F0EBD8;
+}
+QVBoxLayout{
+    background-color: #F0EBD8;
+}
+QLabel {
+    font-size: 14px;
+    font-weight: bold;
+
+}
+QLineEdit {
+    font-size: 14px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #e2ddcb ;
+}
+#plot_button {
+    font-size: 14px;
+    padding: 10px;
+    background-color: #748CAB;
+    color: #221f3a;
+    border: none;
+    border-radius: 4px;
+}
+#plot_button:hover {
+    background-color: #45a049;
+}
+
+
+QPushButton {
+    font-weight:bold;
+}
