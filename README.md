@@ -29,6 +29,17 @@ FunctionPlotter is a Python-based graphical application designed to allow users 
 </div>
 
 
+
+<div align="center">
+  <a href="https://ibb.co/68D4d1Y"><img src="https://i.ibb.co/cw2NmCJ/wrong-exaple.png" alt="wrong-exaple" border="0"></a>
+    <br>
+    <sup style="font-size: 50px;">Wrong Example</sup>
+    <br>
+    <br>
+</div>
+
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
