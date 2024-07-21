@@ -65,7 +65,7 @@ FunctionPlotter is a Python-based graphical application designed to allow users 
 <div align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/4S8NQvL/Min-Max-error.png" alt="Min-Max-error" border="0"></a>
     <br>
-    <sup style="font-size: 50px;">Empty Function Error</sup>
+    <sup style="font-size: 50px;">Min Max Values Error</sup>
     <br>
     <br>
 </div>
