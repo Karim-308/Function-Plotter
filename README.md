@@ -8,6 +8,8 @@ FunctionPlotter is a Python-based graphical application designed to allow users 
 - **Zoom and Pan**: The application includes a toolbar for zooming and panning, helping users explore details of the graph.
 - **Input Validation**: Inputs are validated to ensure only correct mathematical expressions and numeric values are accepted.
 - **Error Handling**: Provides user-friendly notifications for incorrect inputs or errors during the plotting process.
+  
+## Screenshots
 
 ## Getting Started
 
