@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-You need to have Python installed on your machine (Python 3.7 or later is recommended). Additionally, you should install the following packages:
+You need to have Python installed on your machine (Python 3.11 or less is recommended in order for PySide2 to work). Additionally, you should install the following packages:
 
 ```bash
 pip install PySide2 numpy matplotlib
