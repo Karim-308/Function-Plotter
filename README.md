@@ -20,6 +20,15 @@ FunctionPlotter is a Python-based graphical application designed to allow users 
 </div>
 
 
+<div align="center">
+   <a href="https://ibb.co/GvWMVCm"><img src="https://i.ibb.co/4Z8Sj4k/Succeful-Function-plot.png" alt="Succeful-Function-plot" border="0"></a>
+    <br>
+    <sup style="font-size: 50px;">The walking distance on Google Maps is 150m</sup>
+    <br>
+    <br>
+</div>
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
